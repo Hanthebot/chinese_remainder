@@ -1,0 +1,8 @@
+Enter the no. of pairs: 
+Enter coefficient 0: 
+Enter divisor 0: 
+Enter remainder 0: 
+Enter coefficient 1: 
+Enter divisor 1: 
+Enter remainder 1: 
+Solution: 20 + 56n

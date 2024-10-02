@@ -1,0 +1,9 @@
+2
+4
+3
+6
+0
+
+x = 3 mod 4
+x = 0 mod 6
+no solution
